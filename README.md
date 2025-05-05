@@ -1,4 +1,4 @@
-# Hi there, my name is Savva Chernyshev  
+# Hi there, my name is Savva  
 **Data Scientist & ML Engineer** | Solving real-world problems with data-driven solutions  
 
 ---
